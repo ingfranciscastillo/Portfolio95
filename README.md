@@ -7,6 +7,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingfranciscastillo)
 [![last_commit](https://img.shields.io/github/last-commit/ingfranciscastillo/ai-resume-analyzer?style=for-the-badge)](https://github.com/ingfranciscastillo/Portfolio95/commits/main)
 
+<!-- README-I18N:START -->
+
+**Español** | [English](./README.en.md)
+
+<!-- README-I18N:END -->
+
 > Un portfolio interactivo inspirado en el escritorio clásico de Windows 95
 
 ![Portfolio95 Preview](/screenshot.png)
